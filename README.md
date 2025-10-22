@@ -10,7 +10,6 @@
 
 ---
 
-## Badges
 [![Pankaj's Holopin board](https://holopin.me/talk2pankajx)](https://holopin.io/@talk2pankajx)
 
 ---
