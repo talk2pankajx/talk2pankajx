@@ -10,7 +10,7 @@
 
 ---
 
-[![Pankaj's Holopin board](https://holopin.me/talk2pankajx)](https://holopin.io/@talk2pankajx)
+[![Pankaj's Holopin board](https://holopin.me/talk2pankajx)](https://www.holopin.io/@talk2pankajx#badges))
 
 ---
 
