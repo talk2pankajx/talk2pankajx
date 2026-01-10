@@ -3,7 +3,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=talk2pankajx&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talk2pankajx&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📞 Phone: 9845149037  
+- 📞 Phone: 9311816185  
 - 📧 Email: [talk2pankajx@gmail.com](mailto:talk2pankajx@gmail.com)  
 - 🌍 Location: Gurgaon, Haryana  
 - 💻 GitHub: [https://github.com/talk2pankajx](https://github.com/talk2pankajx)
